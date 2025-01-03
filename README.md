@@ -1,9 +1,9 @@
-- 👋 Hi, I’m Rajdeep Dutta
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML & CSS
+- Hi there, I'm Rajdeep Dutta 👋
 
-- 📫 Email: rajdeepduttamp512@gmail.com
-- 😄 Pronouns: He/him
+- 🔭 I’m currently working on ...
+- 🌱 I’m learning Python, AI, and Full Stack Development.
+- 👯 I’m open to collaborating on open-source projects.
+- 📫 How to reach me: rajdeepduttamp512@gmail.com
 
 
 <!---
